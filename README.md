@@ -1,4 +1,8 @@
 # hempcrete
+
+Standards:
+  - https://www.thenbs.com/PublicationIndex/documents/details?Pub=BSI&DocID=303819
+
 List of resources for hempcrete performance solutions in Australia:
   - https://www.ecoright.co.uk/lime-as-a-fire-protectant/
   - https://www.basystems.co.uk/blog/what-is-the-difference-between-a1-and-a2-fire-rating/
