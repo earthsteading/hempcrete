@@ -2,6 +2,10 @@
 
 Standards:
   - https://www.thenbs.com/PublicationIndex/documents/details?Pub=BSI&DocID=303819
+  - https://knowledge.bsigroup.com/products/fire-classification-of-construction-products-and-building-elements-classification-using-data-from-reaction-to-fire-tests?version=tracked
+  - https://www.designingbuildings.co.uk/wiki/BS_EN_13501-1
+  - https://www.en-standard.eu/ilnas-en-13501-1-a1-fire-classification-of-construction-products-and-building-elements-part-1-classification-using-test-data-from-reaction-to-fire-tests-1/
+  - 
 
 List of resources for hempcrete performance solutions in Australia:
   - https://www.ecoright.co.uk/lime-as-a-fire-protectant/
@@ -10,6 +14,8 @@ List of resources for hempcrete performance solutions in Australia:
   - https://www.boral.com.au/sites/default/files/media/field_document/Hydrated%20Lime%20Safety%20Data%20Sheet.pdf
   - https://www.hempmasonry.com.au/hemp-building-materials/
   - https://www.tradical.com/hemp-lime.html#TRADCONS\
+  - https://cp.hempblockaustralia.com/wp-content/uploads/sites/3/2022/03/HempBLOCK_Certification.pdf
+  - https://hempblockaustralia.com/hemp-block/
 
 Oz Hemp only compnay in Australia with CodeMark for Hempcrete using lime render:
   - https://ozhemp.com.au/tradical-products/
